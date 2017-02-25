@@ -18,7 +18,7 @@ Install jupyter notebook using [this](http://jupyter.readthedocs.io/en/latest/in
 
 ##Usage
 
-type `juptyer notebook` into terminal and a browser window will pop up. Click on demo.ipynb. You can iteratively compile 
+type `jupyter notebook` into terminal and a browser window will pop up. Click on demo.ipynb. You can iteratively compile 
 each block of code to see the output results.
 
 ##Credits
